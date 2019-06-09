@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MyApp</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_search">Поиск</string>
+    <string name="temperature">Температура %s &#176;C</string>
+    <string name="humidity">Влажность %d %%</string>
+
+    <string name="from_db">Данные взяты из БД</string>
+    <string name="to_db">Данные добавлены в БД</string>
+    <string name="change_in_db">Данные обновлены в ДБ</string>
+    <string name="refresh">Обновить данные</string>
 </resources>
